@@ -1,0 +1,3 @@
+/home/wyattcolburn/CPE442/lab2/CMakeFiles/image_viewer.dir
+/home/wyattcolburn/CPE442/lab2/CMakeFiles/edit_cache.dir
+/home/wyattcolburn/CPE442/lab2/CMakeFiles/rebuild_cache.dir
